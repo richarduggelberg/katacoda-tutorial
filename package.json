@@ -1,0 +1,24 @@
+{
+  "name": "katacoda-tutorial",
+  "version": "1.0.0",
+  "description": "another easter egg!",
+  "main": "fibonacci.js",
+  "scripts": {
+    "test": "100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pojans/katacoda-tutorial.git"
+  },
+  "keywords": [
+    "Easter",
+    "egg",
+    "fibonacci"
+  ],
+  "author": "pojans / rug",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pojans/katacoda-tutorial/issues"
+  },
+  "homepage": "https://github.com/pojans/katacoda-tutorial#readme"
+}
